@@ -1,0 +1,23 @@
+{
+  "name":        "wingu-hubot-scripts",
+  "version":     "0.1.0",
+  "author":      "wingu",
+  "keywords":    "hubot wingu",
+  "description": "Wingu's hubot scripts",
+  "licenses":     [],
+
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/wingu/wingu-hubot-scripts.git"
+  },
+
+  "dependencies": {
+    "aws2js": "0.5.2",
+    "levenshtein": "1.0.0",
+    "moment": "1.1.1",
+    "request": "2.2.5",
+    "underscore": "1.2.2",
+    "xml2js": "0.1.12"
+  }
+}
+
